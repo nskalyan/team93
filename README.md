@@ -42,7 +42,7 @@ Team93's project is a **game concept crowdsourcing platform** that helps users p
 
 ## Contributors
 
-- Lakshmisai
+- Laxmisai
 - Amulya
 - Charan
 - Kalyan
